@@ -1,2 +1,4 @@
 # RSM8413_Case_1
-Case 1 assignment for RSM8413
+
+- Team 15: Joanne Chien, Harsh Pinge, Venkata Surya Sai Nikhil Garimella, Sharon Xiao, Jitao Zhang
+- Due date: 2025.10.5
